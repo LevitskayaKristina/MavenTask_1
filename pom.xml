@@ -36,10 +36,10 @@
             <version>3.2.1</version>
             <configuration>
                 <checkstyleRules>
-                    <module name="Cheker">
-                        <modul name="TreeWalker">
-                            <modul name="LocalVariableName"/>
-                        </modul>
+                    <module name="Checker">
+                        <module name="TreeWalker">
+                            <module name="LocalVariableName"/>
+                        </module>
                     </module>
                 </checkstyleRules>
             </configuration>
